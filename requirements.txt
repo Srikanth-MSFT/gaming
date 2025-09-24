@@ -1,0 +1,9 @@
+pymongo
+numpy
+scikit-learn
+azure-cosmos
+python-dotenv
+tqdm
+azure-identity
+msgraph-sdk
+openai
