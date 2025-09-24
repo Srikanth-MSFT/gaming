@@ -17,18 +17,18 @@ Azure Cosmos DB delivers these capabilities with:
 - RBAC and private endpoints
 
 # What’s Included?
-Sample Gaming App schema and data with following collections
-  players
-  sessions
-  leaderboards
-  events
-  matches
-Database and collection provisioning with auto-scale throughput
-Leaderboard bucketing and RU tracking
-Data Seeding: Generate synthetic players across regions
-Simulation: Concurrent gameplay across regions
-Query: Retrieve top-K leaderboard results
-Change Feed: Pull recent events for live ops
+- Sample Gaming App schema and data with following collections
+  - players
+  - sessions
+  - leaderboards
+  - events
+  - matches
+- Database and collection provisioning with auto-scale throughput
+- Leaderboard bucketing and RU tracking
+- Data Seeding: Generate synthetic players across regions
+- Simulation: Concurrent gameplay across regions
+- Query: Retrieve top-K leaderboard results
+- Change Feed: Pull recent events for live ops
 
 Retrieval-Augmented Generation (RAG) with Azure Cosmos DB Core API for Gaming Collections
 
